@@ -29,7 +29,7 @@ ADR Storage Options:
 - Wiki Section: Utilize the GitHub Wiki.
 - Dedicated Documentation Tool: Tools like ReadTheDocs or Confluence.
 
-## Challengeability
+## Challengeability
 Every aspect is open to challenge and discussion, promoting a transparent and collaborative environment.
 
 ## Getting Started
